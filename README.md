@@ -1,10 +1,8 @@
 
- Your project name
+ SysSoft 2023 - Projeto Final
  ==============================
   
- Please, edit this file to fit your own project's details.
- 
- Also, do not forget to
- 
- - fill in file AUTHORS with the pertinent information
- - edit heading comments in all source files with your data
+ Resolução do exercício 01 da disciplina de Projeto e Desenvolvimento de Sistemas de Software.
+
+
+ Uma descrição detalhada de como o exercício foi resolvido encontra-se no *README* dentro da pasta hack01.
